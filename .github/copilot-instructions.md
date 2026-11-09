@@ -10,6 +10,8 @@ Role guidance for GitHub Copilot working in **pacman-256**. These are standing i
 - **Key product facts:** mobile-first browser; real-time versus play; short survival rounds (2–3 min) until one remains, eliminated players spectate; up to 4 players first; private rooms via code/invite link; touch-first controls; power-ups = speed boost + temporary shield.
 - **MVP:** one complete, demonstrable multiplayer match on mobile browsers (room create/join, touch movement, one survival round with power-ups, clear winner).
 
+For path-specific instructions (e.g. per-language or per-directory guidance), see the files under `.github/instructions/` — these can apply project-specific rules to matching file paths.
+
 ## Common rules
 
 - Run real build/test commands before claiming something works; verify the game launches.
